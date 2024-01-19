@@ -1,3 +1,21 @@
+.light {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.traffic-light {
+    background: black;
+    display: inline-block;
+    padding: 10px;
+    margin: auto;
+}
+.red{background:red}
+.yellow{background:yellow}
+.green{background: green}
+.glow{
+    box-shadow: 0px 8px 9px 4px #747deb;
+}
+
 
 /* 
 
